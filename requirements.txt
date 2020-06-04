@@ -16,5 +16,6 @@ scikit-image
 datashader
 pyarrow
 cufflinks
+voila
 ipywidgets
 jupyter_contrib_nbextensions
