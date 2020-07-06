@@ -1,2 +1,3 @@
 jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
+jupyter trust ./Plotly3d-scatter-plots.ipynb ./3D_scatter_adjustableVIAwidgets.ipynb
