@@ -1,4 +1,4 @@
-jupyterlab>=2.0.1 #But don't default to JupyterLab because I don't think Plotly demos work there yet
+jupyterlab>=2.2.6
 pandas
 xlrd
 matplotlib
