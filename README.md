@@ -10,7 +10,7 @@ Click on any `launch binder` badge on this page to begin.
 
 ### Related
 
-[3Dsurface_plot-binder: 3D surface plot examples via Binder](https://github.com/fomightez/3Dscatter_plot-binder)
+[3Dsurface_plot-binder: 3D surface plot examples via Binder](https://github.com/fomightez/3Dsurface_plot-binder)
 
 
 ----------
