@@ -18,3 +18,4 @@ cufflinks
 voila
 ipywidgets
 jupyter_contrib_nbextensions
+nbgitpuller
