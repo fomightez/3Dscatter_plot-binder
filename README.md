@@ -2,7 +2,7 @@
 
 # 3Dscatter_plot-binder
 
-3D scatter plot & related 2D examples via Binder
+3D scatter plot & related 2D examples (a sense of the thrid value is implied via size of the point on a 2D plot) via Binder
 
 Click on any `launch binder` badge on this page to begin.
 
