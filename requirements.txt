@@ -8,6 +8,7 @@ scipy
 patsy
 numpy
 plotly-geo
+jupyterlab-plotly
 psutil
 requests
 networkx
