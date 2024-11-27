@@ -10,7 +10,8 @@ Click on any `launch binder` badge on this page to begin.
 
 ### Related
 
-[3Dsurface_plot-binder: 3D surface plot examples via Binder](https://github.com/fomightez/3Dsurface_plot-binder)
+- [3Dsurface_plot-binder: 3D surface plot examples via Binder](https://github.com/fomightez/3Dsurface_plot-binder)
+- You may want to check out my notes at [my 3Dscatter_plot_mod_playground-binder](https://github.com/fomightez/3Dscatter_plot_mod_playground-binder) as the tech MyBinder uses by default changed recently and I'm still working out what one matches best and if any edits need to be made to keep things working. [My 3Dscatter_plot_mod_playground-binder](https://github.com/fomightez/3Dscatter_plot_mod_playground-binder) specifies things more specific at this time.
 
 
 ----------
